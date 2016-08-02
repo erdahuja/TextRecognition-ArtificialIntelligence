@@ -1,4 +1,4 @@
-function g = sigmoid(z)
+function g = sigmoid(z)// main function of neural networks
 %SIGMOID Compute sigmoid functoon
 %   J = SIGMOID(z) computes the sigmoid of z.
 
