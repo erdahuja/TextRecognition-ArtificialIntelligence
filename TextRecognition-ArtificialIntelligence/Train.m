@@ -1,6 +1,6 @@
 %% Initialization
 clear ; close all; clc
-
+/%training computer neural networks
 %% Setup the parameters 
 input_layer_size  = 400;  
 hidden_layer1_size = 62;
